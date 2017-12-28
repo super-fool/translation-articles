@@ -1,7 +1,7 @@
 
 # How JavaScript Timers Work
 
-![原文地址](https://johnresig.com/blog/how-javascript-timers-work/)
+[原文地址](https://johnresig.com/blog/how-javascript-timers-work/)
 
 在学习JavaScript的基础水平上, 清楚JavaScript的时间器如何工作是很重要的. 由于它们(时间器)都是处在各自的单线程中二导致行为不一致.我们来看三个函数,它们每一个函数都可以进行构建和操作时间器.
 
